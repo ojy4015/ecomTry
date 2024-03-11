@@ -5,6 +5,7 @@
 import { withAuth } from "next-auth/middleware";
 import { NextResponse } from 'next/server'
 
+// these paths are protected
 export const config = {
   matcher: ["/dashboard/:path*", "/api/user/:path*", "/api/admin/:path*"],
 };
