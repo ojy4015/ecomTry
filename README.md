@@ -1,3 +1,8 @@
+ecomTry는 next를 이용하여 최신으로 개발하고 있는 프로젝트입니다.
+이 프로젝트는 향후 나의 프로젝트의 기본이 될 표본입니다.
+(2024.03.11 -- 첫번째 commit입니다)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
